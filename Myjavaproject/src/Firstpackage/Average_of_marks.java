@@ -10,7 +10,7 @@ public class Average_of_marks {
 	    int english = 90;
 	    
 	    int total= math+science+english;
-	    double average= total/3.0;
+	    double average= total/3.0d;
 	    
 	    System.out.println("Maths: "+math);
 	    System.out.println("Maths: "+science);
